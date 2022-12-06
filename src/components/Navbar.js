@@ -183,6 +183,12 @@ const Navbar = () => {
                                     <NavbarLi clickMoreVertIcon={clickMoreVertIcon} ref={vertIcon} action={morevert}/>
                                     <NavbarLi clickMoreVertIcon={clickMoreVertIcon} ref={vertIcon} action={morevert}/>
                                     <NavbarLi clickMoreVertIcon={clickMoreVertIcon} ref={vertIcon} action={morevert}/>
+                                    <NavbarLi clickMoreVertIcon={clickMoreVertIcon} ref={vertIcon} action={morevert}/>
+                                    <NavbarLi clickMoreVertIcon={clickMoreVertIcon} ref={vertIcon} action={morevert}/>
+                                    <NavbarLi clickMoreVertIcon={clickMoreVertIcon} ref={vertIcon} action={morevert}/>
+                                    <NavbarLi clickMoreVertIcon={clickMoreVertIcon} ref={vertIcon} action={morevert}/>
+                                    <NavbarLi clickMoreVertIcon={clickMoreVertIcon} ref={vertIcon} action={morevert}/>
+                                    <NavbarLi clickMoreVertIcon={clickMoreVertIcon} ref={vertIcon} action={morevert}/>
                                 </ul>
                             </div>
 
